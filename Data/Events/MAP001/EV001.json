@@ -18,7 +18,7 @@
             "alwaysOnTop": false,
             "speed": 4,
             "commands": [
-              "SHOW_TEXT: {'text': 'Place your mouse on you to see the tooltip'}"
+              "SHOW_TEXT: {'text': 'You fool! ... That is all'}"
             ]
         }
     ]
